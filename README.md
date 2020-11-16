@@ -11,3 +11,4 @@ Notes and files from the workshop on reproducible research.
 - Learn how git is used and how to integrate it into my future work as I code my thesis project
 - Learn new ways to case (explore) data for analysis
 - Learn more about data visualization
+- Learn how to make pushing to git hub work in the terminal :)
